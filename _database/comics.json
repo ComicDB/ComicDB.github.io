@@ -1,0 +1,20 @@
+[
+	{
+		"Name": "Meine Wiedergeburt als Slime in einer anderen Welt",
+		"ID": "df492532-9277-40ac-bc26-eef3a80c2eb2",
+		"Author": "name des Autors",
+		"Released": "2017 - ???",
+		"Concluded": false,
+		"Volumes": 9,
+		"Description": "insert text"
+	},
+	{
+		"Name": "Black Cat",
+		"ID": "906b6761-a6b6-4a0c-9cb0-1000aff7d08d",
+		"Author": "name des Autors",
+		"Released": "1996 - 1999",
+		"Concluded": true,
+		"Volumes": 24,
+		"Description": "insert text"
+	}
+]
